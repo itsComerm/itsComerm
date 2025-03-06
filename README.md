@@ -3,7 +3,7 @@
 🧪 Farmaceutico de profesión, informatico de corazón.
 💪 Fitness y superación personal forman parte de mi día a día.
 💻 Aprendiendo **Python, Java y desarrollo web**.
-📖 Cursando CFGS DAM + Master en Data analyst en Prometeo FP
+📖 Cursando CFGS DAM + Master en Data analyst en Prometeo FP.
 💼 Emprendedor en negocios digitales.  
   
 
@@ -29,8 +29,8 @@
 
 ## 📫 Contacto
 
-💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/roger-comerma/)  
-📷 **Instagram:** [instagram.com/rogercomerma](https://instagram.com/rogercomerma)    
+💼 [LinkedIn](https://www.linkedin.com/in/roger-comerma/)  
+📷 [Instagram](https://instagram.com/rogercomerma)    
 📩 **Email:** lrogercomerma@gmail.com  
 
 ---
