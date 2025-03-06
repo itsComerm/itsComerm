@@ -4,6 +4,12 @@
 🌱 I’m currently aprendiendo cosas.
 
 📫 Cómo contactarme: [Instagram](https://google.com)
+
+
+
+
+💼 **LinkedIn:** [https://www.linkedin.com/in/roger-comerma-b6b3b915a/](https://www.linkedin.com/in/roger-comerma-b6b3b915a/) 
+
 <!--
 **itsComerm/itsComerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
